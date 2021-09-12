@@ -1,6 +1,6 @@
 # Be Our Guest
 
-//Note: The project was developed with minimum functiions & fetures required at that time. Although this was tried to build in advance level with some unique ideas to implement it with professional appearance but still have some bugs to solve and incompleteness (which can be ignored I guess) to modify. ----- All files of this project are not uploaded here. 
+//Note: This project was developed with minimum functionalities/fetures, required at that time (2019). Although, this was tried to be developed in advance level with some unique ideas to implement with professional appearances but still have some bugs to solve and incompleteness (which can be ignored I guess) to modify. ----- All files of this project are not uploaded here. 
 
 
 Introduction:
