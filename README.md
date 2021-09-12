@@ -20,3 +20,6 @@ Customers can also interact with the restaurant owners or event organizers.
 
 Every Restaurant owners & Event organizers will have their admin portals to control their tables/event managements through which they can take bookings or can modify the no. of booked tables & list of customers to handle.
 Customers will have digital payment tokens which they can print to carry with before going to their booked restaurants.
+
+
+Copyright: Rajdeep Das,
