@@ -11,7 +11,7 @@
         <div class="container">
           <div class="row slider-text align-items-center justify-content-center text-center">
             <div class="col-md-10 col-sm-12 ftco-animate">
-              <h1 class="mb-3">Welcome to Be Our Guest!</h1>
+              <h1 class="mb-3">Welcome to BE OUR GUEST!</h1>
             </div>
           </div>
         </div>
