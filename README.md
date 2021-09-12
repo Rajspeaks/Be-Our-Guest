@@ -1,5 +1,8 @@
 # Be Our Guest
 
+//Note: The project was developed with minimum functiions & fetures required at that time. Although this was tried to build in advance level with some unique ideas to implement it with professional appearance but still have some bugs to solve and incompleteness (which can be ignored I guess) to modify. ----- All files of this project are not uploaded here. 
+
+
 Introduction:
 
 BE OUR GUEST (BOG) is an online Restaurant Table-Reservation &  Event-Booking + Management website with two surfaced secure portal including one for Customer's side & another for Restaurant-owner's/Event-organizer's side.
