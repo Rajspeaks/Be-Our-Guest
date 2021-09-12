@@ -10,7 +10,7 @@ BE OUR GUEST (BOG) is an online Restaurant Table-Reservation &  Event-Booking + 
 Purpose: A user-friendly website for Restaurant table Booking & Event booking Management on the same platform.
 
 Tools & Technology we used: 
-The project is developed using HTML, CSS, JavaScript, PHP, MySQL Database (InnoDB), Bootstrap, JQuery & used Apache server under the guidance & mentorship of 'ENGINEERS STUDY CENTRE' (Ardent Computech), Saltlake, Kolkata. 
+The project is developed using HTML, CSS+SCSS+SASS-framework, AJAX, JavaScript, PHP, MySQL Database (InnoDB), Bootstrap, JQuery & used Apache server under the guidance & mentorship of 'ENGINEERS STUDY CENTRE' (Ardent Computech), Saltlake, Kolkata. 
  
 Functionalities:
 
