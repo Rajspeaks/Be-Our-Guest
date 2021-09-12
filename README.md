@@ -12,7 +12,7 @@ The project is developed using HTML, CSS, JavaScript, PHP, MySQL Database (InnoD
 Functionalities:
 
 Every new customer need to first create an account either to reserve a table at their suitable/favourite/nearest restaurant or to get in touch with event-organizers to book an event at any of their favourite/nearest/specially event specific as well as available restaurants on our portal. These both can be done on the same platform within few minutes.
-Customers can also interact directly with the restaurant owners or event organizers from their respective account's special chat portal for free assistance.
+Customers can also interact with the restaurant owners or event organizers.
 
 
 Every Restaurant owners & Event organizers will have their admin portals to control their tables/event managements through which they can take bookings or can modify the no. of booked tables & list of customers to handle.
