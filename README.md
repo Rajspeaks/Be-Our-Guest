@@ -4,16 +4,20 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-Introduction:
+<h2>Introduction:</h2>
 
-BE OUR GUEST (BOG) is an online Restaurant Table-Reservation &  Event-Booking + Management website with two surfaced secure portal including one for Customer's side & another for Restaurant-owner's/Event-organizer's side.
+BE OUR GUEST (BOG) is an online Restaurant Table-Reservation &  Event-Booking + Management website with two surfaced portal including one for Customer's side & another for Restaurant-owner's/Event-organizer's side.
 
 Purpose: A user-friendly website for Restaurant table Booking & Event booking Management on the same platform.
 
-Tools & Technology we used: 
-The project is developed using HTML, CSS+SCSS+SASS-framework, AJAX, JavaScript, PHP, MySQL Database (InnoDB), Bootstrap, JQuery & used Apache server under the guidance & mentorship of 'ENGINEERS STUDY CENTRE' (Ardent Computech), Saltlake, Kolkata. 
- 
-Functionalities:
+----------------------------------------------------------------------------------------------------------------------
+
+<h2>Tools & Technology we used:</h2>
+The project is developed using HTML, CSS+SCSS+SASS, AJAX, JavaScript, PHP, MySQL Database (InnoDB), Bootstrap, JQuery & used Apache server under the guidance & mentorship of 'ENGINEERS STUDY CENTRE' (Ardent Computech), Saltlake, Kolkata. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+<h2>Functionalities:</h2>
 
 Every new customer need to first create an account either to reserve a table at their suitable/favourite/nearest restaurant or to get in touch with event-organizers to book an event at any of their favourite/nearest/specially event specific as well as available restaurants on our portal. These both can be done on the same platform within few minutes.
 Customers can also interact with the restaurant owners or event organizers.
@@ -23,4 +27,4 @@ Every Restaurant owners & Event organizers will have their admin portals to cont
 Customers will have digital payment tokens which they can print to carry with before going to their booked restaurants.
 
 
-Copyright: Rajdeep Das,
+<code> Copyright: Rajdeep Das </code>
