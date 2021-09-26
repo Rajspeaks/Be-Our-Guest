@@ -27,4 +27,4 @@ Every Restaurant owners & Event organizers will have their admin portals to cont
 Customers will have digital payment tokens which they can print to carry with before going to their booked restaurants.
 
 
-<code> Copyright: Rajdeep Das </code>
+<code> &copy; Rajdeep Das </code>
