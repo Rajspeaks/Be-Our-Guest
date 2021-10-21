@@ -1,6 +1,7 @@
 # Be Our Guest
 ---------------------------------------------------------------------------------------------------------------------
-//Note: This was my major project during the academic session of my UnderGraduation course at Netaji Subhash Engineering College under Maulana Abul Kalam Azad University of Technology (MAKAUT, formerly West Bengal University of Technology). It was initially developed with an enlarged frontend but with the minimum functionalities/features required at that time (2019). Although, the project was tried to be developed in advance level at certain point by implementing some unique ideas along with a professional appearance but still have some bugs to solve and remaining incompleteness (which can be ignored I guess) to modify. ----- All files of this project are not uploaded here due to some privacy issues.//
+<code> Note: This was my major project during the academic session of my UnderGraduation course at Netaji Subhash Engineering College under Maulana Abul Kalam Azad University of Technology (MAKAUT, formerly West Bengal University of Technology). It was initially developed with an enlarged frontend but with the minimum functionalities/features required at that time (2019). Although, the project was tried to be developed in advance level at certain point by implementing some unique ideas along with a professional appearance but still have some bugs to solve and remaining incompleteness (which can be ignored I guess) to modify. ----- All files of this project are not uploaded here due to some privacy issues.
+</code>
 
 --------------------------------------------------------------------------------------------------------------------
 
