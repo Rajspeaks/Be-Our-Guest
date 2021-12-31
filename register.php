@@ -138,7 +138,7 @@
       </div>
     </section>
 
-    <?php include 'template/dev.php'; ?>
+    <?php include 'template/instagram.php'; ?>
 
     <?php include 'template/footer.php'; ?>
     
