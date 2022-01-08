@@ -9,7 +9,7 @@
 
 ## Introduction
 
-**BE OUR GUEST (BOG) is an online Restaurant Table-Reservation &  Event-Booking + Management website with two surfaced portal including one for Customer's side & another for Restaurant-owner's/Event-organizer's side.
+**BE OUR GUEST (BOG) is an online Restaurant Table-Reservation &  Event-Booking + Management website with two surfaced portal including one for Customer's side & another for Restaurant-owner's/Event-organizer's side.**
 
 Purpose: A user-friendly website for Restaurant table Booking & Event booking Management on the same platform.
 
