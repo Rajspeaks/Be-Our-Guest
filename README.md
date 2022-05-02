@@ -22,7 +22,7 @@ The project is developed using HTML, CSS+SCSS+SASS, AJAX, JavaScript, PHP, MySQL
 
 ## Mentor & Guidance
 
-This project has been developed under the guidance & mentorship of **'ENGINEERS STUDY CENTRE'** AKA **Ardent Computech India Pvt. Ltd.**, Saltlake, Kolkata. 
+This project has been developed under the guidance & mentorship of **ENGINEERS STUDY CENTRE** AKA **ARDENT COMPUTECH INDIA PVT. LTD.**, SDF, Saltlake, Kolkata. 
 
 ## Features & Functionalities
 
